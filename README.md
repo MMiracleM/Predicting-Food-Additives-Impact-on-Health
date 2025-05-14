@@ -11,7 +11,7 @@ Food-Additives-Analysis/
 
 ├── Food_Addictives_NLP.ipynb # NLP analysis on additive-related articles
 
-├── Food_Additives_Dashboard.pbix # Power BI dashboard for interactive data exploration
+├── Food Additives.pbix # Power BI dashboard for interactive data exploration
 
 ├── README.md # Project overview and usage guide
 
