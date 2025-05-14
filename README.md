@@ -5,7 +5,8 @@ This repository presents a comprehensive analysis of food additives using data s
 ## Repository Contents
 
 Food-Additives-Analysis/
-│
+
+
 ├── Food_Addictives.ipynb # Data cleaning, exploration, and visualization of food additives dataset
 
 ├── Food_Addictives_NLPipynb.ipynb # NLP analysis on additive-related articles
